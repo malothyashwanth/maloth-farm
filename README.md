@@ -43,7 +43,7 @@
             <h2>Our Organic Products</h2>
             <div class="products">
                 <div class="product">
-                    <img src="https://images.unsplash.com/photo-1589924691995-400dc9ecc0af?w=500" alt="Organic Paddy">
+                    <img src="https:/"storage/emulated/O/Download">
                     <h3>Organic Paddy</h3>
                     <p>Premium quality paddy grown using traditional organic methods. Nutrient-rich and flavorful.</p>
                     <p><strong>₹50 / kg</strong> | Available year-round</p>
