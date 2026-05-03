@@ -29,10 +29,10 @@
         <p>Pure Organic Paddy, Fresh Daily Cow Milk & Healthy Pulses</p>
     </header>
     <nav>
-        <a href="#home">Home</a>
-        <a href="#products">Products</a>
-        <a href="#about">About</a>
-        <a href="#contact">Contact</a>
+        <a href="#home"> Home </a>
+        <a href="#products"> Products </a>
+        <a href="#about"> About </a>
+        <a href="#contact"> Contact </a>
     </nav>
     <div class="container">
         <section id="home" class="hero">
