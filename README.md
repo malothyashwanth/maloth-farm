@@ -55,7 +55,7 @@
                     <p><strong>₹60 / liter</strong> | Fresh every morning</p>
                 </div>
                 <div class="product">
-                    <img src="https://images.unsplash.com/photo-1603048297194-9bef7f6a1b2e?w=500" alt="Organic Pulses">
+                    <img src="1777776492302.webp" alt="Organic Pulses">
                     <h3>Organic Pulses</h3>
                     <p>Assorted pulses like moong, chana, and toor dal. 100% organic and protein-packed.</p>
                     <p><strong>₹100 / kg</strong> | Multiple varieties</p>
