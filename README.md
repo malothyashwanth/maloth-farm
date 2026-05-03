@@ -49,7 +49,7 @@
                     <p><strong>₹50 / kg</strong> | Available year-round</p>
                 </div>
                 <div class="product">
-                    <img src="https://images.unsplash.com/photo-1574415798884-dba5e9d9c774?w=500" alt="Fresh Cow Milk">
+                    <img src="images.jpeg" alt="Fresh Cow Milk">
                     <h3>Daily Cow Milk</h3>
                     <p>Fresh, unpasteurized milk straight from our cows. Delivered daily for ultimate freshness.</p>
                     <p><strong>₹60 / liter</strong> | Fresh every morning</p>
