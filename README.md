@@ -69,8 +69,8 @@
         </section>
         <section id="contact">
             <h2>Get in Touch</h2>
-            <p><strong>Email:</strong> your.email@example.com (update this)</p>
-            <p><strong>Phone:</strong> +91-XXXXXXXXXX (add your number)</p>
+            <p><strong>Email:</strong> malothuyashwanth828@gmail.com.com (update this)</p>
+            <p><strong>Phone:</strong> +91-6303083125 (Maloth yashwanth)</p>
             <p><strong>Location:</strong> Hyderabad, Telangana, India</p>
             <p>Order now for fresh delivery!</p>
         </section>
