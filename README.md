@@ -43,13 +43,13 @@
             <h2>Our Organic Products</h2>
             <div class="products">
                 <div class="product">
-                    <img src="https:/"storage/emulated/O/Download">
+                    <img src="images.jpeg">
                     <h3>Organic Paddy</h3>
                     <p>Premium quality paddy grown using traditional organic methods. Nutrient-rich and flavorful.</p>
                     <p><strong>₹50 / kg</strong> | Available year-round</p>
                 </div>
                 <div class="product">
-                    <img src="images.jpeg" alt="Fresh Cow Milk">
+                    <img src="kidmilk2.jpg" alt="Fresh Cow Milk">
                     <h3>Daily Cow Milk</h3>
                     <p>Fresh, unpasteurized milk straight from our cows. Delivered daily for ultimate freshness.</p>
                     <p><strong>₹60 / liter</strong> | Fresh every morning</p>
